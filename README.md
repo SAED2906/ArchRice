@@ -1,0 +1,2 @@
+# ArchRice
+Custom rices
